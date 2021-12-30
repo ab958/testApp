@@ -1,0 +1,19 @@
+{
+  "name": "googleauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "everyauth": "^0.4.9",
+    "express": "^4.17.2",
+    "googleapis": "^92.0.0",
+    "open": "^8.4.0",
+    "server-destroy": "^1.0.1"
+  }
+}
